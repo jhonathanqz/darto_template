@@ -1,2 +1,11 @@
-# darto_template
-Projeto template para construir um backend com DARTO
+Para inicializar o projeto instale as dependência com o comando abaixo:
+
+```
+dart pub get
+```
+
+depois inicie o projeto com o comando:
+
+```
+dart run bin/main.dart
+```

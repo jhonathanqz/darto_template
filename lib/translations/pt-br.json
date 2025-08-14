@@ -1,0 +1,12 @@
+{
+  "missing.authorization": "Cabeçalho de autorização não informado",
+  "incorrect.authentication": "Autenticação básica inválida",
+  "incorrect.static.token": "Token estático incorreto",
+  "incorrect.token": "Token incorreto",
+  "unauthorized": "Não autorizado",
+  "invalid.schema": "Esquema informado inválido. [:schema]",
+  "invalid.email": "O email [:email] informado é inválido",
+  "user.not.found": "Usuário não encontrado",
+  "user.email.not.found": "Usuário não encontrado com o email [:email]",
+  "user.created.error": "Erro ao criar o usuário"
+}
